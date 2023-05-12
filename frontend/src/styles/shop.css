@@ -1,0 +1,18 @@
+.deals{
+    background-image: url(https://images-eu.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/ff457_1641250608477_original._CR0,0,554,554_._FMjpg_.jpeg);
+    height: 500px;
+    width: 100%;
+    
+    border: 1px solid rgb(186, 212, 71);
+}
+.catagori{
+    display: flex;
+}
+.deals h1{
+    font-size: 60px;
+}
+.deals {
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 20px;
+}

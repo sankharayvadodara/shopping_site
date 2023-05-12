@@ -1,0 +1,24 @@
+.about{
+    
+    text-align: center;
+    padding-left: 350px;
+    padding-right: 350px;
+    padding-top: 50px;
+}
+.about h1{
+    padding-bottom: 30px;
+    font-size: 60px;
+
+}
+.about p1{
+    font-size: 35px;
+}
+.about{
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/back_our/20190619/ourmid/pngtree-company-profile-corporate-culture-exhibition-board-display-poster-material-image_131622.jpg);
+    border: 1px solid red;
+    background-size: cover;
+    text-align: center;
+    background-repeat: no-repeat;
+    
+    padding-top: 20px;
+}

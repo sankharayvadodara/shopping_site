@@ -1,0 +1,42 @@
+.catagori_card_sec {
+    background-color: rgba(224, 170, 22, 0.671);
+    height: 230px;
+    width: 220px;
+    padding: 25px;
+    text-align: center;
+    margin: 15px;
+    border-radius: 40%;
+}
+
+
+.btn-group {
+    margin-top: 10px;
+}
+.catagori_btn {
+    padding: 7px;
+    margin: 3px;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+   
+}
+.catagori_card_sec img{
+    height: 100px;
+    width: 120px;
+}
+
+.catagori_btn {
+    padding: 7px;
+    margin: 3px;
+    border: none;
+    border-radius: 3px;
+    color: rgb(228, 33, 33);
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 15px;
+}
+.catagori_card_sec h2{
+    font-size: 25px;
+}

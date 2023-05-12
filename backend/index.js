@@ -1,11 +1,17 @@
 const express = require('express');
 const mongoose = require('mongoose');
+const cors = require('cors');
 
 const productRouter = require('./routes/product');
 const userRouter = require('./routes/user');
 
 
 const app = express();
+
+app.use(cors({
+    origin:'*',
+})
+);
 
 
 const mongoURL = "mongodb+srv://sankharay91:sankha@cluster0.762qehr.mongodb.net/shopping_site?retryWrites=true&w=majority";
